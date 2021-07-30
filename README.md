@@ -3,4 +3,4 @@ My learning way into java programming. Doing a Udemy course "Java Programming Ma
 
 Section 4: Java Tutorial: Expressions, Statements, Code blocks, Methods and more
 
-Coding Exercize 6: Equal Sum Checker
+Coding Exercise 6: Equal Sum Checker
